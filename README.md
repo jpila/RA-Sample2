@@ -1,2 +1,2 @@
 # RA-Sample2
-This repo is for using github in terminal. 
+This I like bananas repo is for using github in terminal. 
